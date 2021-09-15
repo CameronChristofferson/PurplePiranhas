@@ -1,5 +1,5 @@
-member1 = ['Cameron', 'Junior', 'Computer Science', 'Lifting', 'Missoula', '']
-member2 = ['', '', '', '', '', '']
+Cameron = ['Cameron', 'Junior', 'Computer Science', 'Lifting', 'Missoula', None]
+Alek = ['', '', '', '', '', '']
 
 def groupMember(member):
   print(f'Name: {member[0]}')
@@ -10,3 +10,4 @@ def groupMember(member):
   print(f'Anything else: {member[5]}')
   print()
 
+groupMember(Cameron)
