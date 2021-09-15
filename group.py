@@ -1,4 +1,4 @@
-member1 = ['Cameron', 'Junior', 'Computer Science', '', '', '']
+member1 = ['Cameron', 'Junior', 'Computer Science', 'Lifting', 'Missoula', '']
 member2 = ['', '', '', '', '', '']
 
 def groupMember(member):
@@ -8,4 +8,5 @@ def groupMember(member):
   print(f'Hobbies: {member[3]}')
   print(f'Hometown: {member[4]}')
   print(f'Anything else: {member[5]}')
+  print()
 
