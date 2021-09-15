@@ -1,4 +1,4 @@
-member1 = ['Cameron', 'Junior', '', '', '', '']
+member1 = ['Cameron', 'Junior', 'Computer Science', '', '', '']
 member2 = ['', '', '', '', '', '']
 
 def groupMember(member):
