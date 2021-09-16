@@ -1,5 +1,5 @@
 Cameron = ['Cameron', 'Junior', 'Computer Science', 'Lifting', 'Missoula', None]
-Alek = ['Alek', 'Junior', '', '', '', '']
+Alek = ['Alek', 'Junior', 'Computer Science', 'gaming', '', '']
 
 
 def groupMember(member):
