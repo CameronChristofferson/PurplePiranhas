@@ -12,4 +12,4 @@ def groupMember(member):
   print()
 
 groupMember(Cameron)
-print(test)
+groupMember(Alek)
